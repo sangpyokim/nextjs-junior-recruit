@@ -14,11 +14,13 @@ function MainNavigation() {
       <nav>
         <ul>
           <li>
-            <Link href='/posts'>Posts</Link>
+            <Link href='/recruits'>Recruits</Link>
           </li>
-          <li>
+
+          {/* <li>
             <Link href='/contact'>Contact</Link>
-          </li>
+          </li> */}
+
         </ul>
       </nav>
     </header>
